@@ -1,0 +1,29 @@
+{
+  "name": "My Asset Sigma App",
+  "short_name": "Asset Sigma App",
+  "id": "/",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "icons": [
+    {
+      "src": "/images/assetsigmaicon192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "form_factor": "wide"
+    },
+    {
+      "src": "/images/assetsigmaicon512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "form_factor": "wide"
+    },
+    {
+      "src": "/images/assetsigmaicon144.png",
+      "sizes": "144x144",
+      "type": "image/png",
+      "form_factor": "wide"
+    }
+  ]
+}
